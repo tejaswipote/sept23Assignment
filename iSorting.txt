@@ -1,0 +1,5 @@
+package packageDemo;
+
+interface iSorting {
+	void sort(int[] a);
+}
